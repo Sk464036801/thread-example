@@ -1,0 +1,4 @@
+t1 acquiring lock on java.lang.Object@12781046
+t1 acquired lock on java.lang.Object@12781046
+t2 acquiring lock on java.lang.Object@42b36022
+t2 acquired lock on java.lang.Object@42b36022
